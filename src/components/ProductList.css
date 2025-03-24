@@ -1,0 +1,14 @@
+.product-list {
+    flex: 0 0 50%;
+    gap:1rem;
+
+    padding: 1rem 2rem;
+}
+
+.product-list .product-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    gap: 1rem;
+}
